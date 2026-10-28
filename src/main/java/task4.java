@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 static void main() {
     for (int tens = 1; tens <= 9; tens++) {
         for (int ones = 0; ones <= 9; ones++) {
